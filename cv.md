@@ -38,3 +38,10 @@ Ability to work with Git.
 ```
 #### Experience
 The Rolling Scopes School course in progress (2020-Q3).
+#### Education
+* Belarusian State University of Physical Culture (Belarus, Minsk), 2012-2017:  
+specialty - tourism specialist;
+* Cracow University of Economics (Crakow, Poland), 2005-2009:  
+specialty - sales manager (not finished education).
+#### English
+Intermediate (B1)
