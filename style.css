@@ -3,7 +3,34 @@
 	background-color: #a2a2a2;
 	color: #f0f0f0;
 	font-family: Quicksand, sans-serif;
+	margin: 50px;
+	line-height: 25px;
+	letter-spacing: 0.6px;
 }
 body {
 	background-color: #000;
+
+}
+header {
+	padding: 60px 60px 0px 60px;
+}
+main {
+	padding: 0px 60px 60px 60px;
+}
+.header-name {
+    float: left;
+    width: 65%;
+    
+    
+}
+.header-photo {
+    float: left;
+    width: 35%;
+    
+}
+.clear {
+    clear: left;
+}
+.under-h1 {
+	font-size: 22px;
 }
