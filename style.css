@@ -3,30 +3,26 @@
 	background-color: #a2a2a2;
 	color: #f0f0f0;
 	font-family: Quicksand, sans-serif;
-	margin: 50px;
+	margin: 0 auto;
 	line-height: 25px;
 	letter-spacing: 0.6px;
 }
-body {
+.body {
 	background-color: #000;
-
 }
-header {
+.header {
 	padding: 60px 60px 0px 60px;
 }
-main {
+.main {
 	padding: 0px 60px 60px 60px;
 }
 .header-name {
     float: left;
-    width: 65%;
-    
-    
+    width: 65%;      
 }
 .header-photo {
     float: left;
-    width: 35%;
-    
+    width: 35%;    
 }
 .clear {
     clear: left;
