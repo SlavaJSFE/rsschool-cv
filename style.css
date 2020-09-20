@@ -1,1 +1,9 @@
-
+.container {
+	max-width: 1024px;
+	background-color: #a2a2a2;
+	color: #f0f0f0;
+	font-family: Quicksand, sans-serif;
+}
+body {
+	background-color: #000;
+}
